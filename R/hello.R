@@ -16,7 +16,7 @@
 hello <- function() {
   print("Hello, world!")
 }
-GITHUB_PAT=a8ba0ea7331d8b387a3924acadf160bc4f9f091c
-GITHUB_PAT=a8ba0ea7331d8b387a3924acadf160bc4f9f091c
+
+
 usethis::use_github()
 
